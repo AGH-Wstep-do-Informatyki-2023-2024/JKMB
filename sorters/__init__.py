@@ -1,1 +1,1 @@
-__all__ = ["file_type"]
+__all__ = ["file_type", "file_name"]
