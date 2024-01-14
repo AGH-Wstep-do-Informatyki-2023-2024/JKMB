@@ -13,16 +13,4 @@ for i in len(list):
     if r[0] == list:
         shutil.move(path+dir, path+'Samogłoski'+dir)
     else:
-<<<<<<< Updated upstream
-        shutil.move(path+files, path+'Spółgłoski'+files)
-if 1 = 0:
-    print("Test for 13th task")
-=======
         shutil.move(path+dir, path+'Spółgłoski'+dir)
-
-
->>>>>>> Stashed changes
-
-
-
-
