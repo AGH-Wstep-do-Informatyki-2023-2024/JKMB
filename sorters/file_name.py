@@ -1,4 +1,5 @@
 import os
+
 show_name = "Po nazwie"
 
 def sort(files: list[str]):
