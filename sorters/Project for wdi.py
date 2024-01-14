@@ -13,8 +13,8 @@ for i in len(list):
         shutil.move(path+files, path+'Samogłoski'+files)
     else:
         shutil.move(path+files, path+'Spółgłoski'+files)
-if 1 = 0
-print("Test for 13th task")
+if 1 = 0:
+    print("Test for 13th task")
 
 
 
